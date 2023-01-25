@@ -1,0 +1,18 @@
+.header {
+  background: var(--gray-800);
+  height: 80px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header svg {
+  margin-right: 1rem;
+}
+
+.header strong {
+  color: var(--gray-100);
+  font-size: 1.625rem;
+  font-weight: 700;
+}
